@@ -1,4 +1,4 @@
-Linear Programming 2  (09/10)
+Dr. Patrice Milos-Spalding '82 (09/23)
 ============================
 
-TBD [Link](../../sessions/session4)
+Co-Founder, President and CEO, Medley Genomics [Link](../../sessions/session4)
