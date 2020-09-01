@@ -5,7 +5,7 @@ When you’re college professor always said “don’t do nonsense”, you striv
 
 ## Assignment
 
-|   Session | Assignment                                                                                                                                                    | Due   |
-|----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|:------|
-|         7 | After each session, write up a 1 paragraph reflection to be incorporated into a final deliverable. It may be collecte at several points through the semester. | NaT   |
+|   Session | Assignment                                                                                                                                                    | Due        |
+|----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------|
+|         7 | After each session, write up a 1 paragraph reflection to be incorporated into a final deliverable. It may be collecte at several points through the semester. | 2020-12-10 |
 

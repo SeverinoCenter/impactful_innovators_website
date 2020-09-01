@@ -5,7 +5,7 @@ What happens when the platform needed to make your idea a reality (the internet)
 
 ## Assignment
 
-|   Session | Assignment                                                                                                                                                    | Due   |
-|----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|:------|
-|         6 | After each session, write up a 1 paragraph reflection to be incorporated into a final deliverable. It may be collecte at several points through the semester. | NaT   |
+|   Session | Assignment                                                                                                                                                    | Due        |
+|----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------|
+|         6 | After each session, write up a 1 paragraph reflection to be incorporated into a final deliverable. It may be collecte at several points through the semester. | 2020-12-10 |
 

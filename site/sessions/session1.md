@@ -5,10 +5,10 @@ As a biochem/biophysics major at RPI, Brent Solina '12 nurtured his curiosity wi
 
 ## Before Class
 
-|   Session | Content                                                                                                    |
-|----------:|:-----------------------------------------------------------------------------------------------------------|
-|         1 | Please review the syllabus for the course.  [Link](https://rpi.box.com/s/ldy9h2bfaz00gek5a9cotyz21sboab95) |
-|         1 | MICROrganic Technologies [Link](https://www.microrganictech.com/)                                          |
+|   Session | Content                                                           |
+|----------:|:------------------------------------------------------------------|
+|         1 | Please review the syllabus for the course.                        |
+|         1 | MICROrganic Technologies [Link](https://www.microrganictech.com/) |
 
 
 ## In Class
