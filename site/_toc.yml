@@ -2,9 +2,9 @@
 - chapters:
   - file: content/schedule
   - file: content/syllabus
-  - file: content/preparation
+#  - file: content/preparation
   - file: content/in_class
-  - file: content/assignments
+#  - file: content/assignments
   part: OVERVIEW
 - chapters:
   - file: sessions/session1
@@ -13,22 +13,20 @@
   - file: sessions/session4
   numbered: true
   part: SESSIONS
-- part: NOTEBOOKS
-  numbered: true
-  chapters:
-  - file: notebooks/python-overview
-  - file: notebooks/datastructures
+#- part: NOTEBOOKS
+#  numbered: true
+#  chapters:
+#  - file: notebooks/python-overview
+#  - file: notebooks/datastructures
 
 - part: IMPORTANT LINKS
   numbered: true
   chapters:
   - url: https://lms.rpi.edu/
     title: RPI LMS
-  - url: https://eurl.io/#YnuX1CwNt
-    title: Webex Teams Discussion
-  - url: https://eurl.io/#11TTxqc4I
-    title: Webex Teams Homework
+  - url: https://discord.gg/bq7z7WH
+    title: Discord
   - url: https://rensselaer.webex.com/meet/kuruzj
-    title: Prof Kuruzovich Class Link
-  - url: https://rpi.box.com/s/ldy9h2bfaz00gek5a9cotyz21sboab95
+    title: Webex Link for Class
+  - url: https://rpi.box.com/s/h23poh51rmrkk61zgniu3vsi26nmriyo
     title: Box Share (Files)

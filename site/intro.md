@@ -3,14 +3,19 @@ Welcome to Quantitative Methods for Business
 
 IMPORTANT LINKS
 - [RPI LMS](https://lms.rpi.edu/)
-- [WEBEX TEAMS Discussion Space](https://eurl.io/#YnuX1CwNt)
-- [WEBEX TEAMS Homework Space](https://eurl.io/#11TTxqc4I)
+- [Discord Discussion Space](https://discord.gg/bq7z7WH)
 - [WEBEX Meetings Classroom Link](https://rensselaer.webex.com/meet/kuruzj)
-- [Box File Share](https://rpi.box.com/s/ldy9h2bfaz00gek5a9cotyz21sboab95)
+- [Box File Share](https://rpi.box.com/s/h23poh51rmrkk61zgniu3vsi26nmriyo)
 
-This is the website for the Rensselaer class *Quantitative Methods for Business*.
 
-Hi, I'm professor Jason Kuruzovich (you can use professor Jason or just Jason is fine). During these challenging times I'm going to do my best to provide an engaging learning experience. We will be using a combination of tools for the class and I wanted to provide that overview here.
+This is the website for the Rensselaer class *Impactful Innovators*.
+
+Hi, I'm professor Jason Kuruzovich (you can use professor Jason or just Jason is fine), and I'm the director of the Severino Center for Technological Entrepreneurship.
+
+We have a great set of speakers
+
+![](.files/bb.png)
+
 
 For class this semester, thank you in advance for complying with RPI mask policies. The science is solid and we want to all get through the semester heathy and without incident.
 
