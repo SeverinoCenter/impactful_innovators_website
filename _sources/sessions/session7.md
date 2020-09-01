@@ -1,4 +1,11 @@
-Eben Bayer '07 (10/14)
+Eben Bayer '07 (Co-Founder and CEO, Ecovative Design) (10/14)
 ============================
 
-Co-Founder and CEO, Ecovative Design [Link](../../sessions/session7)
+When you’re college professor always said “don’t do nonsense”, you strive to find a meaningful idea that you are passionate about working on in class. When Eben discovered the properties of mycelium and that he could grow a new sustainable material with them, he thought he might be on the right track. Little did he know how important his discovery would be to multiple industries, starting with the packaging industry.
+
+## Assignment
+
+|   Session | Assignment                                                                                                                                                    | Due   |
+|----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|:------|
+|         7 | After each session, write up a 1 paragraph reflection to be incorporated into a final deliverable. It may be collecte at several points through the semester. | NaT   |
+
