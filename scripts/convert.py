@@ -5,7 +5,7 @@
 # ---
 # These files are used to configure and organize the website's contents.
 
-# In[1]:
+# In[18]:
 
 
 #%load_ext autoreload
@@ -13,7 +13,7 @@
 #%matplotlib inline
 
 
-# In[2]:
+# In[19]:
 
 
 # Always run this before any of the following cells
@@ -33,7 +33,7 @@ class_path= base_path / cf['class']
 content_path = class_path / 'content'
 
 
-# In[3]:
+# In[20]:
 
 
 # These load configuration from the excel files 
@@ -47,7 +47,7 @@ content['In Class']= pd.read_excel(excel_file, sheet_name = 'During',  index_col
 content['Assignment']= pd.read_excel(excel_file, sheet_name = 'Assignments',  index_col=None)
 
 
-# In[4]:
+# In[21]:
 
 
 #Create the syllabus link.
@@ -55,14 +55,14 @@ content['Assignment']= pd.read_excel(excel_file, sheet_name = 'Assignments',  in
 #bd.create_syllabus(content['Before Class'],0,cf['syllabus_message'],content_path / 'syllabus.md', config['repository']['url'])
 
 
-# In[5]:
+# In[22]:
 
 
 #Fix in case individual tries to publish where session is NA. This isn't allowed. 
 schedule.loc[schedule['Session'].isna(),'Publish']=0. 
 
 
-# In[6]:
+# In[23]:
 
 
 #Generate Links from the schedule to the sessions and within the other tables. 
@@ -70,25 +70,25 @@ schedule.loc[schedule['Publish']==1,'Location']=schedule.loc[schedule['Publish']
 schedule.loc[schedule['Publish']==1,'Type']='Markdown'
 
 
-# In[7]:
+# In[24]:
 
 
 schedule
 
 
-# In[8]:
+# In[25]:
 
 
 config['repository']['url']
 
 
-# In[9]:
+# In[26]:
 
 
-#schedule=bd.link_generator(schedule, 'Summary',config['repository']['url'],'Link')
+schedule=bd.link_generator(schedule, 'Summary',config['repository']['url'],'Link')
 
 
-# In[10]:
+# In[27]:
 
 
 
