@@ -1,7 +1,7 @@
-Brent Solina '12 (09/02)
+Brent Solina '12 (Founder and CTO, MICROrganic Technologies) (09/02)
 ============================
 
-Founder and CTO, MICROrganic Technologies [Link](../../sessions/session1)
+As a biochem/biophysics major at RPI, Brent Solina '12 nurtured his curiosity with experimentation. It wasn’t until he became enamored with microbial fuel cells that he almost became homeless. Tune in to hear how he is making an impact on a dirty job that most would not sign up for after graduating with the skills and knowledge he acquired while at Rensselaer. 
 
 ## Before Class
 
@@ -13,14 +13,14 @@ Founder and CTO, MICROrganic Technologies [Link](../../sessions/session1)
 
 ## In Class
 
-|   Session | Content                                                                 |
-|----------:|:------------------------------------------------------------------------|
-|         1 | Syllabus [Link](https://rpi.box.com/s/h23poh51rmrkk61zgniu3vsi26nmriyo) |
+|   Session | Content                   |
+|----------:|:--------------------------|
+|         1 | Recording will be posted. |
 
 
 ## Assignment
 
-|   Session | Assignment                                                                                                                                                                                                         | Due        |
-|----------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------|
-|         1 | In this starter assignment, we are just going to try and test that everyone can go through and utilize some basic modeling of business senarios. [Starter](https://rpi.box.com/s/ldy9h2bfaz00gek5a9cotyz21sboab95) | 2020-09-10 |
+|   Session | Assignment                                                                                                                                                    | Due        |
+|----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------|
+|         1 | After each session, write up a 1 paragraph reflection to be incorporated into a final deliverable. It may be collecte at several points through the semester. | 2020-12-10 |
 
