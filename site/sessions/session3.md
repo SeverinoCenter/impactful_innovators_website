@@ -1,11 +1,4 @@
-Linear Programming 1 (09/08)
+William Fosnight '92 (09/16)
 ============================
 
-TBD [Link](../../sessions/session3)
-
-## Before Class
-
-|   Session | Content       |
-|----------:|:--------------|
-|         3 | IMS Chapter 2 |
-
+Co-Founder and Chief Development Officer, Alert Innovations [Link](../../sessions/session3)
