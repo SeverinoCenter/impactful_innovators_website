@@ -1,14 +1,7 @@
-Intro to Management Science  (09/03)
+John Haller '86 (09/09)
 ============================
 
-More detail on specific approches. [Link](../../sessions/session2)
-
-## Before Class
-
-|   Session | Content       |
-|----------:|:--------------|
-|         2 | IMS Chapter 1 |
-
+VP Technology, Sports Illustrated Play [Link](../../sessions/session2)
 
 ## In Class
 
