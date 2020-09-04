@@ -1,7 +1,14 @@
 Brent Solina '12 (Founder and CTO, MICROrganic Technologies) (09/02)
 ============================
 
-As a biochem/biophysics major at RPI, Brent Solina '12 nurtured his curiosity with experimentation. It wasn’t until he became enamored with microbial fuel cells that he almost became homeless. Tune in to hear how he is making an impact on a dirty job that most would not sign up for after graduating with the skills and knowledge he acquired while at Rensselaer.  [Link](../../sessions/session1)
+As a biochem/biophysics major at RPI, Brent Solina '12 nurtured his curiosity with experimentation. It wasn’t until he became enamored with microbial fuel cells that he almost became homeless. Tune in to hear how he is making an impact on a dirty job that most would not sign up for after graduating with the skills and knowledge he acquired while at Rensselaer. 
+
+
+<br> For students taking the class asynchronous please take the quiz associated with this video.
+<!-- copy and paste. Modify height and width if desired. -->
+<iframe class="embeddedObject shadow resizable" name="embedded_content" scrolling="no" frameborder="0" type="text/html"
+        style="overflow:hidden;" src="https://www.screencast.com/users/reardk/folders/Camtasia%20Studio/media/5dcc6727-7d57-4c58-a5d2-14967aa0d4eb/embed" height="1080" width="1920" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+ [Link](../../sessions/session1)
 
 ## Before Class
 
