@@ -3,6 +3,13 @@ Dr. Patrice Milos-Spalding '82 (Co-Founder, President and CEO, Medley Genomics) 
 
 Doctors diagnose diseases and treat patients daily. It is scientists studying genomic heterogeneity who give doctors the ability to do such work with more accuracy. Dr. Patrice Milos ’82 has made it her mission to improve patients’ lives through personalized healthcare, the root of which lies in genomic research and data analytics. [Link](../../sessions/session4)
 
+## Before Class
+
+|   Session | Content                                                                         |
+|----------:|:--------------------------------------------------------------------------------|
+|         4 | Check out Patrice's company, Medley Genomics [Link](http://medleygenomics.com/) |
+
+
 ## Assignment
 
 |   Session | Assignment                                                                                                                                                     | Due        |

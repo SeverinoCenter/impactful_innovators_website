@@ -14,9 +14,9 @@ As a biochem/biophysics major at RPI, Brent Solina '12 nurtured his curiosity wi
 
 ## In Class
 
-|   Session | Content                                                                                             |
-|----------:|:----------------------------------------------------------------------------------------------------|
-|         1 | Recording of Talk (with quiz for async students). [Link](https://www.screencast.com/t/psRwAPELCBhd) |
+|   Session | Content                   |
+|----------:|:--------------------------|
+|         1 | Recording will be posted. |
 
 
 ## Assignment
