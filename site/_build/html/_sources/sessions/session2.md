@@ -10,6 +10,13 @@ What degree of impact can a Math major at RPI have on the world?  As the CTO to
 |         2 | Join the Discord community and post a short introduction in the Students->#fall2020-class channel [Link](https://discord.gg/bq7z7WH ) |
 
 
+## In Class
+
+|   Session | Content                                                     |
+|----------:|:------------------------------------------------------------|
+|         2 | John's talk. [Link](https://www.screencast.com/t/yMlFUj5wN) |
+
+
 ## Assignment
 
 |   Session | Assignment                                                                                                                                                     | Due        |
