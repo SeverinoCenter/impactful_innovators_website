@@ -14,9 +14,9 @@ As a biochem/biophysics major at RPI, Brent Solina '12 nurtured his curiosity wi
 
 ## In Class
 
-|   Session | Content                                                                                                                            |
-|----------:|:-----------------------------------------------------------------------------------------------------------------------------------|
-|         1 | Brent's talk. [Link](https://www.screencast.com/users/reardk/folders/Camtasia%20Studio/media/5dcc6727-7d57-4c58-a5d2-14967aa0d4eb) |
+|   Session | Content                                                                                                                                                                           |
+|----------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|         1 | Brent Solina '12 (Founder and CTO, MICROrganic Technologies) [Link](https://www.screencast.com/users/reardk/folders/Camtasia%20Studio/media/5dcc6727-7d57-4c58-a5d2-14967aa0d4eb) |
 
 
 ## Assignment
