@@ -12,9 +12,9 @@ What degree of impact can a Math major at RPI have on the world?  As the CTO to
 
 ## In Class
 
-|   Session | Content                                                     |
-|----------:|:------------------------------------------------------------|
-|         2 | John's talk. [Link](https://www.screencast.com/t/yMlFUj5wN) |
+|   Session | Content                                                                                                 |
+|----------:|:--------------------------------------------------------------------------------------------------------|
+|         2 | John Haller '86 (VP Technology, Sports Illustrated Play) [Link](https://www.screencast.com/t/yMlFUj5wN) |
 
 
 ## Assignment
