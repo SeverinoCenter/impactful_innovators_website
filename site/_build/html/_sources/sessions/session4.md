@@ -10,6 +10,13 @@ Doctors diagnose diseases and treat patients daily. It is scientists studying ge
 |         4 | Check out Patrice's company, Medley Genomics [Link](http://medleygenomics.com/) |
 
 
+## In Class
+
+|   Session | Content                                                                                                                       |
+|----------:|:------------------------------------------------------------------------------------------------------------------------------|
+|         4 | Dr. Patrice Milos-Spalding '82 (Co-Founder, President and CEO, Medley Genomics) [Link](https://www.screencast.com/t/yffj37mW) |
+
+
 ## Assignment
 
 |   Session | Assignment                                                                                                                                                     | Due        |
