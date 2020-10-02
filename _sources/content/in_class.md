@@ -8,3 +8,4 @@ In Class
 |      2 |         2 | 09/09  | John Haller '86 (VP Technology, Sports Illustrated Play) [Link](https://www.screencast.com/t/yMlFUj5wN)                                                                           |
 |      3 |         3 | 09/16  | William Fosnight '92 (Co-Founder and CTO, Alert Innovation) [Link](https://www.screencast.com/t/FTUg66qq8)                                                                        |
 |      4 |         4 | 09/23  | Dr. Patrice Milos-Spalding '82 (Co-Founder, President and CEO, Medley Genomics) [Link](https://www.screencast.com/t/yffj37mW)                                                     |
+|      5 |         5 | 09/30  | Dwaine Alleyne '04 (Co-Founder and Partner, Enso Financial) [Link](https://www.screencast.com/t/7bSBMcLim)                                                                        |
