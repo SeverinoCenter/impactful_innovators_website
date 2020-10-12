@@ -12,9 +12,9 @@ What happens when the platform needed to make your idea a reality (the internet)
 
 ## In Class
 
-|   Session | Content                                                    |
-|----------:|:-----------------------------------------------------------|
-|         6 | Jeff Stewart '91 (Chairman and Co-Founder, Lenddo Limited) |
+|   Session | Content                                                                                                      |
+|----------:|:-------------------------------------------------------------------------------------------------------------|
+|         6 | Jeff Stewart '91 (Chairman and Co-Founder, Lenddo Limited) [Link](https://www.screencast.com/t/q0B6a5lcnyNG) |
 
 
 ## Assignment
