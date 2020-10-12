@@ -10,6 +10,13 @@ What happens when the platform needed to make your idea a reality (the internet)
 |         6 | Check out Jeff's company, Lenddo Ltd [Link](https://lenddo.com/) |
 
 
+## In Class
+
+|   Session | Content                                                    |
+|----------:|:-----------------------------------------------------------|
+|         6 | Jeff Stewart '91 (Chairman and Co-Founder, Lenddo Limited) |
+
+
 ## Assignment
 
 |   Session | Assignment                                                                                                                                                     | Due        |
