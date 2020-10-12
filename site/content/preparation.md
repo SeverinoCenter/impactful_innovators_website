@@ -18,3 +18,4 @@ Before Class
 |     11 |        11 | 11/11  | Check out Guha's 2nd company, Velan Studios [Link](https://www.velanstudios.com/)                                                     |
 |     11 |        11 | 11/11  | Check out Guha's 1st company, Velan Studios [Link](https://vicariousvisions.com)                                                      |
 |     12 |        12 | 11/18  | Check out Selcuk's company, Bunch [Link](https://bunch.live/)                                                                         |
+|     13 |        13 | 11/25  | Check out Tim's company, VARA Safety [Link](https://varasafety.com/)                                                                  |
