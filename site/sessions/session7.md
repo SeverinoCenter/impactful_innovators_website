@@ -10,6 +10,13 @@ When you’re college professor always said “don’t do nonsense”, you striv
 |         7 | Check out Eben's company, Ecovative Design [Link](https://ecovativedesign.com/) |
 
 
+## In Class
+
+|   Session | Content                                                                                                 |
+|----------:|:--------------------------------------------------------------------------------------------------------|
+|         7 | Eben Bayer '07 (Co-Founder and CEO, Ecovative Design) [Link](https://www.screencast.com/t/qIRq9ZLB4d35) |
+
+
 ## Assignment
 
 |   Session | Assignment                                                                                                                                                     | Due        |

@@ -10,6 +10,13 @@ With 3 degrees in electrical engineering from RPI, what industry do you think To
 |         8 | Check out Tobi's company, 1st Playable Productions [Link](http://www.1stplayable.com/) |
 
 
+## In Class
+
+|   Session | Content                                                                                                         |
+|----------:|:----------------------------------------------------------------------------------------------------------------|
+|         8 | Tobi Saulnier '84 (Founder and CEO, 1st Playable Productions) [Link](https://www.screencast.com/t/x8JJQOrFbFGg) |
+
+
 ## Assignment
 
 |   Session | Assignment                                                                                                                                                     | Due        |
