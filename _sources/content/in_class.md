@@ -10,3 +10,5 @@ In Class
 |      4 |         4 | 09/23  | Dr. Patrice Milos-Spalding '82 (Co-Founder, President and CEO, Medley Genomics) [Link](https://www.screencast.com/t/yffj37mW)                                                     |
 |      5 |         5 | 09/30  | Dwaine Alleyne '04 (Co-Founder and Partner, Enso Financial) [Link](https://www.screencast.com/t/7bSBMcLim)                                                                        |
 |      6 |         6 | 10/07  | Jeff Stewart '91 (Chairman and Co-Founder, Lenddo Limited) [Link](https://www.screencast.com/t/q0B6a5lcnyNG)                                                                      |
+|      7 |         7 | 10/14  | Eben Bayer '07 (Co-Founder and CEO, Ecovative Design) [Link](https://www.screencast.com/t/qIRq9ZLB4d35)                                                                           |
+|      8 |         8 | 10/21  | Tobi Saulnier '84 (Founder and CEO, 1st Playable Productions) [Link](https://www.screencast.com/t/x8JJQOrFbFGg)                                                                   |
