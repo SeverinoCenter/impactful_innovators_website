@@ -10,6 +10,13 @@ What was once printed on paper is now largely digital. Businesses and consumers 
 |         9 | Check out Vikram's company, Levrx [Link](https://www.levrx.com/) |
 
 
+## In Class
+
+|   Session | Content                                                                                                                                                                                                |
+|----------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|         9 | Vikram Agrawal '02 (President and CEO, Levrx Technology; Co-CEO, Agrawal Holdings Inc.) [Link](https://rensselaer.webex.com/webappng/sites/rensselaer/recording/play/7d59afe52f2645e4ade2c585cc9f48d6) |
+
+
 ## Assignment
 
 |   Session | Assignment                                                                                                                                                     | Due        |
