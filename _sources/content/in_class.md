@@ -13,3 +13,4 @@ In Class
 |      7 |         7 | 10/14  | Eben Bayer '07 (Co-Founder and CEO, Ecovative Design) [Link](https://www.screencast.com/t/qIRq9ZLB4d35)                                                                                                |
 |      8 |         8 | 10/21  | Tobi Saulnier '84 (Founder and CEO, 1st Playable Productions) [Link](https://www.screencast.com/t/x8JJQOrFbFGg)                                                                                        |
 |      9 |         9 | 10/28  | Vikram Agrawal '02 (President and CEO, Levrx Technology; Co-CEO, Agrawal Holdings Inc.) [Link](https://rensselaer.webex.com/webappng/sites/rensselaer/recording/play/7d59afe52f2645e4ade2c585cc9f48d6) |
+|     10 |        10 | 11/04  | Christopher Wysopal (Co-Founder and CTO, Veracode) [Link](https://www.screencast.com/t/FaZ3Dicj)                                                                                                       |
