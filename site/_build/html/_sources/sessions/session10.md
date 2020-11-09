@@ -15,6 +15,13 @@ This RPI alumnus can do just that.
 |        10 | Check out Chris' company, Veracode [Link](https://www.veracode.com/) |
 
 
+## In Class
+
+|   Session | Content                                                                                          |
+|----------:|:-------------------------------------------------------------------------------------------------|
+|        10 | Christopher Wysopal (Co-Founder and CTO, Veracode) [Link](https://www.screencast.com/t/FaZ3Dicj) |
+
+
 ## Assignment
 
 |   Session | Assignment                                                                                                                                                     | Due        |
