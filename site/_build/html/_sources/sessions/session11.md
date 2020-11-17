@@ -11,6 +11,13 @@ Are you crazy enough to take on $1M in personal debt when you have zero assets? 
 |        11 | Check out Guha's 1st company, Velan Studios [Link](https://vicariousvisions.com)  |
 
 
+## In Class
+
+|   Session | Content                                                                                                                   |
+|----------:|:--------------------------------------------------------------------------------------------------------------------------|
+|        11 | Guha Bala (Co-Founder and President, Velan Studios  and Velan Ventures) [Link](https://www.screencast.com/t/RnnUKEBFrr5I) |
+
+
 ## Assignment
 
 |   Session | Assignment                                                                                                                                                     | Due        |
