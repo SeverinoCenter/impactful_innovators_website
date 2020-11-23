@@ -10,6 +10,13 @@ This alumnus went from an Information Technology and Web Sciences master student
 |        12 | Check out Selcuk's company, Bunch [Link](https://bunch.live/) |
 
 
+## In Class
+
+|   Session | Content                                                                                    |
+|----------:|:-------------------------------------------------------------------------------------------|
+|        12 | Selcuk Atli '09, Co-Founder and CEO, Bunch [Link](https://www.screencast.com/t/W7shyjOOnX) |
+
+
 ## Assignment
 
 |   Session | Assignment                                                                                                                                                     | Due        |
