@@ -15,3 +15,4 @@ In Class
 |      9 |         9 | 10/28  | Vikram Agrawal '02 (President and CEO, Levrx Technology; Co-CEO, Agrawal Holdings Inc.) [Link](https://rensselaer.webex.com/webappng/sites/rensselaer/recording/play/7d59afe52f2645e4ade2c585cc9f48d6) |
 |     10 |        10 | 11/04  | Christopher Wysopal (Co-Founder and CTO, Veracode) [Link](https://www.screencast.com/t/FaZ3Dicj)                                                                                                       |
 |     11 |        11 | 11/11  | Guha Bala (Co-Founder and President, Velan Studios  and Velan Ventures) [Link](https://www.screencast.com/t/RnnUKEBFrr5I)                                                                              |
+|     12 |        12 | 11/18  | Selcuk Atli '09, Co-Founder and CEO, Bunch [Link](https://www.screencast.com/t/W7shyjOOnX)                                                                                                             |
