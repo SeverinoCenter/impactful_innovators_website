@@ -16,3 +16,4 @@ In Class
 |     10 |        10 | 11/04  | Christopher Wysopal (Co-Founder and CTO, Veracode) [Link](https://www.screencast.com/t/FaZ3Dicj)                                                                                                       |
 |     11 |        11 | 11/11  | Guha Bala (Co-Founder and President, Velan Studios  and Velan Ventures) [Link](https://www.screencast.com/t/RnnUKEBFrr5I)                                                                              |
 |     12 |        12 | 11/18  | Selcuk Atli '09, Co-Founder and CEO, Bunch [Link](https://www.screencast.com/t/W7shyjOOnX)                                                                                                             |
+|     13 |        13 | 11/25  | Timmy Oh  [Link](https://www.screencast.com/t/TGwTUAwu)                                                                                                                                                |
