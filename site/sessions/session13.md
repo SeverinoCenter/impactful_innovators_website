@@ -10,6 +10,13 @@ No class Thanksgiving Break. [Link](../../sessions/session13)
 |        13 | Check out Tim's company, VARA Safety [Link](https://varasafety.com/) |
 
 
+## In Class
+
+|   Session | Content                                                 |
+|----------:|:--------------------------------------------------------|
+|        13 | Timmy Oh  [Link](https://www.screencast.com/t/TGwTUAwu) |
+
+
 ## Assignment
 
 |   Session | Assignment                                                                                                                                                     | Due        |
