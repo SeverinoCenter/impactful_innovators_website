@@ -7,24 +7,3 @@ How would you like to add these to your resume?
   “Named one of the 100 Most Influential People in IT”   
 This RPI alumnus can do just that.
  [Link](../../sessions/session10)
-
-## Before Class
-
-|   Session | Content                                                              |
-|----------:|:---------------------------------------------------------------------|
-|        10 | Check out Chris' company, Veracode [Link](https://www.veracode.com/) |
-
-
-## In Class
-
-|   Session | Content                                                                                          |
-|----------:|:-------------------------------------------------------------------------------------------------|
-|        10 | Christopher Wysopal (Co-Founder and CTO, Veracode) [Link](https://www.screencast.com/t/FaZ3Dicj) |
-
-
-## Assignment
-
-|   Session | Assignment                                                                                                                                                     | Due        |
-|----------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------|
-|        10 | After each session, write up a 1 paragraph reflection to be incorporated into a final deliverable. It may be collected at several points through the semester. | 2020-12-10 |
-
